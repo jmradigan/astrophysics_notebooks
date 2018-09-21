@@ -1,1 +1,2 @@
 # astrophysics_notebooks
+This project contains interactive Jupyter notebooks for undergraduate calculus-based astrophysics.  The notebooks contain instructor solution cells that can be deleted or left in place.  Double clicking on these cells will reveal the solutions.  In some cases I've provided a completed version of the notebook named ("-CompletedVersion") with working solutions in-place so that the full solutions can be easily viewed.
